@@ -1,7 +1,6 @@
 # 🛠️ Frontend Practice Projects
-
-Welcome to my collection of beginner-friendly web development projects!  
-This repository is part of my learning journey as I study frontend development, primarily through Codecademy and hands-on experimentation.
+ 
+This repository is part of my learning journey as I study frontend development, primarily through Codecademy, IT courses and hands-on experimentation.
 
 Each project in this repo focuses on building a small, functional feature using **HTML**, **CSS**, and **JavaScript** — everything from simple games to interactive web components.
 
@@ -15,7 +14,8 @@ Each project in this repo focuses on building a small, functional feature using 
 
 ## 📁 What you'll find here
 
-- 🪨 Rock-Paper-Scissors (+ secret lava mode!) - JavaScript
+-  Rock-Paper-Scissors (+ secret lava mode!) - JavaScript
+-  Sleep Debt Calculator - JavaScript
   
 *(This section will be dynamically updated as I add projects.*
 
