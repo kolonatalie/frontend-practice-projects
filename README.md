@@ -14,8 +14,9 @@ Each project in this repo focuses on building a small, functional feature using 
 
 ## 📁 What you'll find here
 
--  Rock-Paper-Scissors (+ secret lava mode!) - JavaScript
+-  Rock Paper Scissors (+ secret lava mode!) - JavaScript
 -  Sleep Debt Calculator - JavaScript
+-  Whale Talk Translator - JavaScript
   
 *(This section will be dynamically updated as I add projects.*
 
