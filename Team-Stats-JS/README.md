@@ -49,12 +49,14 @@ console.log(team.games);
 - Writing clean methods to manage internal data
 - Understanding encapsulation using getters
 - Strengthening foundational JS skills
+- Documentation: [JavaScript Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 
 
 ## ✨ Ideas for further practice
 
 * **Calculate Total Games:** Add a method to get the total number of games played.
 * **Calculate Average Score:** Implement methods to calculate the team's average score across all games, or the opponent's average score.
+
 
 ### Created by [kolonatalie](https://github.com/kolonatalie)
 I’m always open to feedback and collaboration!
