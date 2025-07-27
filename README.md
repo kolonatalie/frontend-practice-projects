@@ -5,13 +5,6 @@ This repository is part of my learning journey as I study frontend development, 
 Each project in this repo focuses on building a small, functional feature using **HTML**, **CSS**, and **JavaScript** — everything from simple games to interactive web components.
 
 
-## ✨ Why this repo exists
-
--  This repository serves as a practical record of my journey into web development. It showcases the concepts and skills I’m currently learning and acts as a living portfolio of my early projects.
--  It’s also a way for me to reflect on my growth as a developer and the challenges I've worked through along the way.
--  If you're a fellow beginner, I hope these projects offer useful insights. Feel free to explore, adapt, and learn from the code.
-
-
 ## 📁 What you'll find here
 
 -  [Rock Paper Scissors (+ secret lava mode!)](https://github.com/kolonatalie/frontend-practice-projects/tree/main/Rock-Paper-or-Scissors-JS) - JavaScript
@@ -21,6 +14,13 @@ Each project in this repo focuses on building a small, functional feature using 
 -  [Challenge Project: Credit Card Checker](https://github.com/kolonatalie/frontend-practice-projects/tree/main/Challenge-Project-Credit-Card-Checker)
   
 *(This section will be dynamically updated as I add projects).*
+
+
+## ✨ Why this repo exists
+
+-  This repository serves as a practical record of my journey into web development. It showcases the concepts and skills I’m currently learning and acts as a living portfolio of my early projects.
+-  It’s also a way for me to reflect on my growth as a developer and the challenges I've worked through along the way.
+-  If you're a fellow beginner, I hope these projects offer useful insights. Feel free to explore, adapt, and learn from the code.
 
 
 ## 📌 Disclaimer
