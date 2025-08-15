@@ -15,6 +15,10 @@ Each project in this repo focuses on building a small, functional feature using 
   -  [Team Stats](/Projects/Team-Stats-JS/)
   -  [Challenge Project: Credit Card Checker](/Projects/Challenge-Project-Credit-Card-Checker/)
 
+- ### HTML&CSS
+
+  -  [Image Hover Effect](/Projects/Image-hover-effect-CSS/)  / **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)**/
+
 
 - ### Standalone projects *(with their own repos)*
   - [Personal Portfolio Website](https://github.com/kolonatalie/portfolio) • **[Live Demo](https://kolonatalie.github.io/portfolio/)**
