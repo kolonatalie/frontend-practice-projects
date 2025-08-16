@@ -14,6 +14,7 @@ Each project in this repo focuses on building a small, functional feature using 
   -  [Whale Talk Translator](/Projects/Whale-Talk-Translator-JS/)
   -  [Team Stats](/Projects/Team-Stats-JS/)
   -  [Challenge Project: Credit Card Checker](/Projects/Challenge-Project-Credit-Card-Checker/)
+  -  [Happy Birthday Piano Player](/Projects/Happy-Birthday-Piano-Player/)
 
 - ### HTML&CSS
 
