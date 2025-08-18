@@ -10,7 +10,7 @@ Users can browse through reviews, navigate with next/previous buttons, or displa
 - Responsive Design – works on desktop & mobile
 - Built with Vanilla JavaScript
 
-## 🔮 Further Improvements
+## Further Improvements
 Here are some planned upgrades:
 
 - Add smooth slide transition animations
