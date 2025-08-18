@@ -1,7 +1,7 @@
 # Reviews Carousel
 A simple, responsive, and interactive Reviews/Testimonials carousel built with HTML, CSS, and JavaScript.
 Users can browse through reviews, navigate with next/previous buttons, or display a random review with a single click.
-![Reviews Carousel](assets/piano-player-demo.gif)
+![Reviews Carousel](assets/reviews-carousel-demo.gif)
 
 ## ✨ Features
 - Dynamic Review Loading (name, job, image, description)

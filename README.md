@@ -15,6 +15,7 @@ Each project in this repo focuses on building a small, functional feature using 
   -  [Team Stats](/Projects/Team-Stats-JS/)
   -  [Challenge Project: Credit Card Checker](/Projects/Challenge-Project-Credit-Card-Checker/)
   -  [Happy Birthday Piano Player](/Projects/Happy-Birthday-Piano-Player/)
+  -  [Reviews Carousel](/Projects/Reviews/) / **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)**/
 
 - ### HTML&CSS
 
