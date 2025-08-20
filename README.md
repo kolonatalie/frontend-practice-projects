@@ -25,7 +25,7 @@ Each project in this repo focuses on building a small, functional feature using 
 - ### Standalone projects *(with their own repos)*
   - [Personal Portfolio Website](https://github.com/kolonatalie/portfolio) • **[Live Demo](https://kolonatalie.github.io/portfolio/)**
   - [Pastel Gradient Generator — 2 & 3 Color Background](https://github.com/kolonatalie/pastel-gradient-generator) • **[Play Online](https://kolonatalie.github.io/pastel-gradient-generator/)**
-  
+  - [Quote of the Day Web App](https://github.com/kolonatalie/quote-of-the-day) • **[Live Demo](https://kolonatalie.github.io/quote-of-the-day/)**
 
 *(This section will be dynamically updated as I add projects).*
 
