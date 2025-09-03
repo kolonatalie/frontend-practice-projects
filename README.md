@@ -9,23 +9,26 @@ Each project in this repo focuses on building a small, functional feature using 
 
 - ### JavaScript snippets
 
-  -  [Rock Paper Scissors (+ secret lava mode!)](/Projects/Rock-Paper-or-Scissors-JS/)
-  -  [Sleep Debt Calculator](/Projects/Sleep-Debt-Calculator/)
-  -  [Whale Talk Translator](/Projects/Whale-Talk-Translator-JS/)
-  -  [Team Stats](/Projects/Team-Stats-JS/)
-  -  [Challenge Project: Credit Card Checker](/Projects/Challenge-Project-Credit-Card-Checker/)
-  -  [Happy Birthday Piano Player](/Projects/Happy-Birthday-Piano-Player/)
   -  [Reviews Carousel](/Projects/Reviews/) / **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)**/
-
-- ### HTML&CSS
-
-  -  [Image Hover Effect](/Projects/Image-hover-effect-CSS/)  / **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)**/
+  -  [Happy Birthday Piano Player](/Projects/Happy-Birthday-Piano-Player/)
+  -  [Challenge Project: Credit Card Checker](/Projects/Challenge-Project-Credit-Card-Checker/)
+  -  [Team Stats](/Projects/Team-Stats-JS/)
+  -  [Whale Talk Translator](/Projects/Whale-Talk-Translator-JS/)
+  -  [Sleep Debt Calculator](/Projects/Sleep-Debt-Calculator/)
+  -  [Rock Paper Scissors (+ secret lava mode!)](/Projects/Rock-Paper-or-Scissors-JS/)
 
 
 - ### Standalone projects *(with their own repos)*
+  - [Snake Game](https://github.com/kolonatalie/snake) • **[Play Online](https://kolonatalie.github.io/snake/)**
   - [Personal Portfolio Website](https://github.com/kolonatalie/portfolio) • **[Live Demo](https://kolonatalie.github.io/portfolio/)**
-  - [Pastel Gradient Generator — 2 & 3 Color Background](https://github.com/kolonatalie/pastel-gradient-generator) • **[Play Online](https://kolonatalie.github.io/pastel-gradient-generator/)**
   - [Quote of the Day Web App](https://github.com/kolonatalie/quote-of-the-day) • **[Live Demo](https://kolonatalie.github.io/quote-of-the-day/)**
+  - [Pastel Gradient Generator — 2 & 3 Color Background](https://github.com/kolonatalie/pastel-gradient-generator) • **[Play Online](https://kolonatalie.github.io/pastel-gradient-generator/)**
+
+
+- ### HTML & CSS snippets
+
+  -  [Image Hover Effect](/Projects/Image-hover-effect-CSS/)  / **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)**/
+
 
 *(This section will be dynamically updated as I add projects).*
 
