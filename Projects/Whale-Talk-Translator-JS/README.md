@@ -1,40 +1,46 @@
-# Whale Talk Translator
+# 🐋 Whale Talk Translator (JavaScript Algorithm)
 
-A cool JavaScript project that translates regular human phrases into **Whale Talk** — a language spoken slowly and only in vowels (as per Codecademy's challenge).
+A small, console-based JavaScript project that translates regular human phrases into **Whale Talk** (as per the Codecademy Challenge). This project focuses on fundamental **string and array manipulation**.
 
-## Description
+---
 
-This program takes any input phrase and converts it into its "Whale Talk" equivalent by following a few rules:
+## Description & Functionality
 
-- Only vowels are used (A, E, I, O, U — no Y).
-- The vowels **"e"** and **"u"** are considered **extra long**, so they are **doubled** in the translation.
-- The final output is in **UPPERCASE**, as whale sounds are loud.
+This program defines a core algorithm to convert any given string input into its "whale talk" equivalent. The translation process follows three specific rules:
 
-## Example
-
-### **Input:** 
-Code is like humor - if you have to explain it, it’s probably not that good
-
-### **Output:**  
-OEEIIEEUUOIOUUAEEOEEAIIIOAOAOO
-
-## Concepts Used
-
-- `for` loops
-- `if` statements
-- `Array.push()`
-- `Array.join()`
-- `String.toUpperCase()`
+1.  **Vowel Isolation:** Only the vowels (`a`, `e`, `i`, `o`, `u`) from the input phrase are retained (the letter `y` is excluded).
+2.  **Vowel Elongation:** The vowels **'e'** and **'u'** are intentionally doubled (e.g., `e` becomes `ee`, `u` becomes `uu`).
+3.  **Loud Output:** The final translated output is converted to **UPPERCASE** to simulate loud whale sounds.
 
 
-## Future Ideas
+## Getting Started
 
-- Visualize whale talk translation on a webpage
-- Add support for custom vowel elongation
+Since this is a Node.js console application, you only need to have Node installed locally to run it.
 
-### Created by [kolonatalie](https://github.com/kolonatalie)
-I’m always open to feedback and collaboration!
+1.  Navigate into the project directory:
+    ```bash
+    cd Whale-Talk-Translator-JS
+    ```
+2.  Run the JavaScript file using Node:
+    ```bash
+    node main.js
+    ```
 
-* [GitHub](https://github.com/kolonatalie)
-* [LinkedIn](https://www.linkedin.com/in/kolonatalie/)
-* [Portfolio](https://kolonatalie.github.io/portfolio/)
+## 🧪 Example Output
+
+| Input Phrase | Expected Whale Talk Output |
+| :--- | :--- |
+| `Code is like humor - if you have to explain it, it’s probably not that good` | `OEEIIEEUUOIOUUAEEOEEAIIIOAOAOO` |
+
+## Technical Highlights
+
+This project demonstrates proficiency in core JavaScript programming constructs:
+
+* **Iteration:** Effective use of nested `for` loops for character and vowel comparison.
+* **Data Manipulation:** Utilizing `Array.push()` to incrementally build the result array, followed by `Array.join('')` to construct the final string.
+* **Conditional Logic:** Employing multiple `if` statements to handle the specific elongation rules for 'e' and 'u'.
+* **String Methods:** Application of `String.toUpperCase()` for final presentation.
+
+---
+
+*Created by [kolonatalie](https://github.com/kolonatalie) • Connect: [LinkedIn](https://www.linkedin.com/in/kolonatalie/) | [Portfolio](https://kolonatalie.github.io/portfolio/)*
