@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2cW1mdDM5dHllNHAzeHB0eGZwMGdycTVvbXIyNzc2dmM0bG9vcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fY5fY1YKJy1lO6jDK5/giphy.gif" height="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2cW1mdDM5dHllNHAzeHB0eGZwMGdycTVvbXIyNzc2dmM0bG9vcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fY5fY1YKJy1lO6jDK5/giphy.gif" width="100" height="100"/>
   <h1>Frontend Practice Projects</h1>
 </div>
  
@@ -50,9 +50,9 @@ These are larger, fully realized apps, each maintained in its own dedicated repo
 ## 🛠️ Getting Started (Local Setup)
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/kolonatalie/frontend-practice-projects.git](https://github.com/kolonatalie/frontend-practice-projects.git)
-    ```
+    
+    `git clone` [`https://github.com/kolonatalie/frontend-practice-projects.git`](https://github.com/kolonatalie/frontend-practice-projects.git)
+    
 2.  **Navigate to the desired project folder:**
     ```bash
     cd frontend-practice-projects/Project-Folder-Name
