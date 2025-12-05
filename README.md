@@ -10,7 +10,7 @@ Each project in this repo focuses on building a small, functional feature using 
 
 ### Tech Stack & Key Topics
 
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
+* **Languages:** HTML5, CSS3 & Sass, JavaScript (ES6+)
 * **Concepts:** DOM Manipulation, Event Listeners, Algorithms, CSS Flexbox/Grid, Responsive Design, Conditional Logic.
 
 ---
@@ -39,6 +39,7 @@ These are larger, fully realized apps, each maintained in its own dedicated repo
 
 | Project Title | Description & Key Tech | Repository Link | Live Demo |
 | :--- | :--- | :--- | :--- |
+| ***Modular Sass & Vanilla JS E-commerce Site*** | Responsive site featuring dynamic product rendering & Shopping Cart logic via Local Storage. | [`sass-vanilla-js-ecommerce-site`](https://github.com/kolonatalie/sass-vanilla-js-ecommerce-site) | **[Live Demo](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** |
 | ***Personal Portfolio Website*** | A responsive, custom portfolio showcasing my skills and projects. | [`portfolio`](https://github.com/kolonatalie/portfolio) | **[Live Demo](https://kolonatalie.github.io/portfolio/)** |
 | ***Snake Game*** | Classic Snake game built to practice core JavaScript game loop mechanics. | [`snake`](https://github.com/kolonatalie/snake) | **[Play Online](https://kolonatalie.github.io/snake/)** |
 | ***Quote of the Day Web App*** | Fetches and displays a new quote daily. | [`quote-of-the-day`](https://github.com/kolonatalie/quote-of-the-day) | **[Live Demo](https://kolonatalie.github.io/quote-of-the-day/)** |
