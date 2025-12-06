@@ -47,6 +47,16 @@ These are larger, fully realized apps, each maintained in its own dedicated repo
 
 ---
 
+## GSAP, Three.js, and WebGL
+
+The repository is dedicated to my structured learning and experimentation with high-performance web animation and 3D graphics.
+
+| Project Title | Description & Key Tech | Repository Link | Live Demo |
+| :--- | :--- | :--- | :--- |
+| ***Interactive Header Sequence (GSAP)*** | Sequenced entry animation on page load, performance use of `transform` | [`gsap-threejs-experiments`](https://github.com/kolonatalie/gsap-threejs-experiments) | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+
+---
+
 
 ## 🛠️ Getting Started (Local Setup)
 
