@@ -69,7 +69,7 @@ The repository is dedicated to my structured learning and experimentation with h
     
 2.  **Navigate to the desired project folder:**
     ```bash
-    cd frontend-practice-projects/Project-Folder-Name
+    cd frontend-practice-projects/Projects/Project-Folder-Name
     ```
 3.  **Run the code:**
     * **For UI Components (HTML/CSS/JS):** Open the `index.html` file in your browser (Live Server recommended).
