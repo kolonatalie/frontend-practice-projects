@@ -17,8 +17,6 @@ Each project in this repo focuses on building a small, functional feature using 
 
 ## 🟣 Projects Index
 
-The table below provides a quick overview of all projects included in this repository.
-
 | Folder Name | Project Title | Key Learning Focus | Live Demo |
 | :--- | :--- | :--- | :--- |
 | `Reviews` | **Reviews Carousel** | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
@@ -32,6 +30,7 @@ The table below provides a quick overview of all projects included in this repos
 
 
 > *(This section will be dynamically updated as I add projects).*
+---
 
 ## 🪩 Standalone Projects
 
@@ -47,13 +46,16 @@ These are larger, fully realized apps, each maintained in its own dedicated repo
 
 ---
 
-## GSAP, Three.js, and WebGL
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp2dXVkM3owbDF1eGVicWdhMHhzbnUwajJqZW93dzFqZmI5YTJoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26vwfMVM6nlEkwftUj/giphy.gif" width="50" height="50"/>
+
+## [GSAP • Three.js • WebGL](https://github.com/kolonatalie/gsap-threejs-experiments) | Dedicated Repo
 
 The repository is dedicated to my structured learning and experimentation with high-performance web animation and 3D graphics.
 
-| Project Title | Description & Key Tech | Repository Link | Live Demo |
+| Project Title | Description & Key Tech | Source Code | Live Demo |
 | :--- | :--- | :--- | :--- |
-| ***Interactive Header Sequence (GSAP)*** | Sequenced entry animation on page load, performance use of `transform` | [`gsap-threejs-experiments`](https://github.com/kolonatalie/gsap-threejs-experiments) | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+| ***Interactive Header Sequence (GSAP)*** | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | [`interactive-header-sequence-gsap3`](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/interactive-header-sequence-gsap3) | **[Live Demo](https://codepen.io/kolonatalie/pen/wBGQeJw)** |
 
 ---
 
@@ -87,7 +89,8 @@ I'm always open to feedback, collaboration, and connecting with fellow developer
 [![Bluesky Badge](https://img.shields.io/badge/Bluesky-704F91?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kolonatalie.bsky.social)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-3D2B4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kolonatalie)
 
+---
 
-### Keywords & Topics
+**`Keywords & Topics`**
 
 `frontend development`, `portfolio project`, `HTML`, `CSS`, `JavaScript`, `beginner web development`, `Codecademy`, `DOM manipulation`, `interactive components`, `coding challenges`, `responsive design`, `creative coding`, `learning frontend`
