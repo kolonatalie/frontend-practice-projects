@@ -19,14 +19,15 @@ Each project in this repo focuses on building a small, functional feature using 
 
 | Folder Name | Project Title | Key Learning Focus | Live Demo |
 | :--- | :--- | :--- | :--- |
-| `Reviews` | **Reviews Carousel** | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
-| `Happy-Birthday-Piano-Player` | **Piano Player** | Event Handling (Mouse), DOM State Updates, UI flow management. | |
-| `Challenge-Project-Credit-Card-Checker` | **Credit Card Checker** | Luhn Algorithm, Functional Composition, Array & String methods. | |
-| `Team-Stats-JS` | **Team Stats** | Data Encapsulation (Getters), OOP Fundamentals, Object State Management. | |
-| `Whale-Talk-Translator-JS` | **Whale Talk Translator** | String Manipulation, Loops, Array construction. | |
-| `Sleep-Debt-Calculator` | **Sleep Debt Calculator** | Switch Statements, Input Validation & Control Flow. | |
-| `Rock-Paper-or-Scissors-JS` | **Rock, Paper, Scissors** | User input handling, Random number generation, Game logic. | |
-| `Image-hover-effect-CSS` | **Image Hover Effect** | CSS Transitions & Transforms, Pseudo-elements (::after), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
+| [`Image-hover-effect-CSS`](/Projects/Image-hover-effect-CSS/) | **Image Hover Effect** | CSS Transitions & Transforms, Pseudo-elements (::after), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
+| [`Happy-Birthday-Piano-Player`](/Projects/Happy-Birthday-Piano-Player/) | **Piano Player** | Event Handling (Mouse), DOM State Updates, UI flow management. | |
+| [`Reviews`](/Projects/Reviews/) | **Reviews Carousel** | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+| [`Challenge-Project-Credit-Card-Checker`](/Projects/Challenge-Project-Credit-Card-Checker/) | **Credit Card Checker** | Luhn Algorithm, Functional Composition, Array & String methods. | |
+| [`Team-Stats-JS`](/Projects/Team-Stats-JS/) | **Team Stats** | Data Encapsulation (Getters), OOP Fundamentals, Object State Management. | |
+| [`Whale-Talk-Translator-JS`](/Projects/Whale-Talk-Translator-JS/) | **Whale Talk Translator** | String Manipulation, Loops, Array construction. | |
+| [`Sleep-Debt-Calculator`](/Projects/Sleep-Debt-Calculator/) | **Sleep Debt Calculator** | Switch Statements, Input Validation & Control Flow. | |
+| [`Rock-Paper-or-Scissors-JS`](/Projects/Rock-Paper-or-Scissors-JS/)| **Rock, Paper, Scissors** | User input handling, Random number generation, Game logic. | |
+
 
 
 > *(This section will be dynamically updated as I add projects).*
