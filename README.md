@@ -56,7 +56,8 @@ The repository is dedicated to my structured learning and experimentation with h
 
 | Project Title | Description & Key Tech | Source Code | Live Demo |
 | :--- | :--- | :--- | :--- |
-| ***Interactive Header Sequence (GSAP)*** | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | [`interactive-header-sequence-gsap3`](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/interactive-header-sequence-gsap3) | **[Live Demo](https://codepen.io/kolonatalie/pen/wBGQeJw)** |
+| ***Bunny Jumper Animation (GSAP3)*** | A dynamic web animation showcasing a bunny jumping in and out of a hole.  | [`bunny-jumper`](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/bunny-jumper) | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
+| ***Interactive Header Sequence (GSAP3)*** | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | [`interactive-header-sequence-gsap3`](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/interactive-header-sequence-gsap3) | **[Live Demo](https://codepen.io/kolonatalie/pen/wBGQeJw)** |
 
 ---
 
