@@ -19,6 +19,7 @@ Each project in this repo focuses on building a small, functional feature using 
 
 | Folder Name | Project Title | Key Learning Focus | Live Demo |
 | :--- | :--- | :--- | :--- |
+| [`birthday-reminder-react-app`](/Projects/birthday-reminder-react-app/) | **Birthday Reminder App (TypeScript Refactor)** | A small React app designed to remind users of upcoming birthdays. TypeScript used. |  |
 | [`Image-hover-effect-CSS`](/Projects/Image-hover-effect-CSS/) | **Image Hover Effect** | CSS Transitions & Transforms, Pseudo-elements (::after), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
 | [`Happy-Birthday-Piano-Player`](/Projects/Happy-Birthday-Piano-Player/) | **Piano Player** | Event Handling (Mouse), DOM State Updates, UI flow management. | |
 | [`Reviews`](/Projects/Reviews/) | **Reviews Carousel** | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
