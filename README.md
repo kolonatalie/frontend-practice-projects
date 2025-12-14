@@ -29,7 +29,7 @@ Each project in this repo focuses on building a small, functional feature using 
 | [`tours-react`](/Projects/tours-react/) | ***Tours React App*** | **(Refactored to TypeScript).** A functional app for viewing and managing a list of travel tours. |  |
 | [`birthday-reminder-react-app`](/Projects/birthday-reminder-react-app/) | ***Birthday Reminder App*** | A small React app designed to remind users of upcoming birthdays. **(TypeScript Refactor)** |  |
 ||
-| ⬆  | ```⬆ React``` | ```TypeScript ⬆``` | ⬆ |
+| ⬆  | **```⬆ REACT```** | **```TYPESCRIPT ⬆```** | ⬆ |
 ||
 | [`Image-hover-effect-CSS`](/Projects/Image-hover-effect-CSS/) | ***Image Hover Effect*** | CSS Transitions & Transforms, Pseudo-elements (`::after`), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
 | [`Happy-Birthday-Piano-Player`](/Projects/Happy-Birthday-Piano-Player/) | ***Piano Player*** | Event Handling (Mouse), DOM State Updates, UI flow management. | |
