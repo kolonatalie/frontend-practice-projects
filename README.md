@@ -4,14 +4,21 @@
 </div>
  
 This repository is part of my learning journey as I study frontend development, primarily through Codecademy, IT courses and hands-on experimentation.
-Each project in this repo focuses on building a small, functional feature using **HTML**, **CSS**, and **JavaScript** — everything from simple games to interactive web components.
+Each project in this repo focuses on building a small, functional feature using **HTML/CSS**, **JavaScript (ES6+)**, **React** and **TypeScript** — everything from simple games to interactive web components.
 
 ---
 
 ### Tech Stack & Key Topics
+![HTML Badge](https://img.shields.io/badge/html-704F91?style=for-the-badge&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/css3-704F91?style=for-the-badge&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-704F91?style=for-the-badge&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript(ES6+)-704F91?style=for-the-badge&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-704F91?style=for-the-badge&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-704F91?style=for-the-badge&logoColor=white)
 
-* **Languages:** HTML5, CSS3 & Sass, JavaScript (ES6+)
-* **Concepts:** DOM Manipulation, Event Listeners, Algorithms, CSS Flexbox/Grid, Responsive Design, Conditional Logic.
+ DOM Manipulation • Event Listeners •  Algorithms • CSS Flexbox/Grid • Responsive Design • Conditional Logic • React Hooks
+
+
 
 ---
 
@@ -19,15 +26,19 @@ Each project in this repo focuses on building a small, functional feature using 
 
 | Folder Name | Project Title | Key Learning Focus | Live Demo |
 | :--- | :--- | :--- | :--- |
-| [`birthday-reminder-react-app`](/Projects/birthday-reminder-react-app/) | **Birthday Reminder App (TypeScript Refactor)** | A small React app designed to remind users of upcoming birthdays. TypeScript used. |  |
-| [`Image-hover-effect-CSS`](/Projects/Image-hover-effect-CSS/) | **Image Hover Effect** | CSS Transitions & Transforms, Pseudo-elements (::after), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
-| [`Happy-Birthday-Piano-Player`](/Projects/Happy-Birthday-Piano-Player/) | **Piano Player** | Event Handling (Mouse), DOM State Updates, UI flow management. | |
-| [`Reviews`](/Projects/Reviews/) | **Reviews Carousel** | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
-| [`Challenge-Project-Credit-Card-Checker`](/Projects/Challenge-Project-Credit-Card-Checker/) | **Credit Card Checker** | Luhn Algorithm, Functional Composition, Array & String methods. | |
-| [`Team-Stats-JS`](/Projects/Team-Stats-JS/) | **Team Stats** | Data Encapsulation (Getters), OOP Fundamentals, Object State Management. | |
-| [`Whale-Talk-Translator-JS`](/Projects/Whale-Talk-Translator-JS/) | **Whale Talk Translator** | String Manipulation, Loops, Array construction. | |
-| [`Sleep-Debt-Calculator`](/Projects/Sleep-Debt-Calculator/) | **Sleep Debt Calculator** | Switch Statements, Input Validation & Control Flow. | |
-| [`Rock-Paper-or-Scissors-JS`](/Projects/Rock-Paper-or-Scissors-JS/)| **Rock, Paper, Scissors** | User input handling, Random number generation, Game logic. | |
+| [`tours-react`](/Projects/tours-react/) | ***Tours React App*** | **(Refactored to TypeScript).** A functional app for viewing and managing a list of travel tours. |  |
+| [`birthday-reminder-react-app`](/Projects/birthday-reminder-react-app/) | ***Birthday Reminder App*** | A small React app designed to remind users of upcoming birthdays. **(TypeScript Refactor)** |  |
+||
+| ⬆  | ```⬆ React``` | ```TypeScript ⬆``` | ⬆ |
+||
+| [`Image-hover-effect-CSS`](/Projects/Image-hover-effect-CSS/) | ***Image Hover Effect*** | CSS Transitions & Transforms, Pseudo-elements (`::after`), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
+| [`Happy-Birthday-Piano-Player`](/Projects/Happy-Birthday-Piano-Player/) | ***Piano Player*** | Event Handling (Mouse), DOM State Updates, UI flow management. | |
+| [`Reviews`](/Projects/Reviews/) | ***Reviews Carousel*** | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+| [`Challenge-Project-Credit-Card-Checker`](/Projects/Challenge-Project-Credit-Card-Checker/) | ***Credit Card Checker*** | Luhn Algorithm, Functional Composition, Array & String methods. | |
+| [`Team-Stats-JS`](/Projects/Team-Stats-JS/) | ***Team Stats*** | Data Encapsulation (Getters), OOP Fundamentals, Object State Management. | |
+| [`Whale-Talk-Translator-JS`](/Projects/Whale-Talk-Translator-JS/) | ***Whale Talk Translator*** | String Manipulation, Loops, Array construction. | |
+| [`Sleep-Debt-Calculator`](/Projects/Sleep-Debt-Calculator/) | ***Sleep Debt Calculator*** | Switch Statements, Input Validation & Control Flow. | |
+| [`Rock-Paper-or-Scissors-JS`](/Projects/Rock-Paper-or-Scissors-JS/)| ***Rock, Paper, Scissors*** | User input handling, Random number generation, Game logic. | |
 
 
 
@@ -88,12 +99,13 @@ I'm always open to feedback, collaboration, and connecting with fellow developer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kolonatalie/)
 [![Discord Badge](https://img.shields.io/badge/Discord-8A62B3?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/prqvsDRdNk)
-[![Mastodon Badge](https://img.shields.io/badge/Mastodon-A575D4?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@kolonatalie)
-[![Bluesky Badge](https://img.shields.io/badge/Bluesky-704F91?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kolonatalie.bsky.social)
+[![X Badge](https://img.shields.io/badge/X-B575D4?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_kolonatalie)
+[![Bluesky Badge](https://img.shields.io/badge/Bluesky-A575D4?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kolonatalie.bsky.social)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-704F91?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@kolonatalie)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-3D2B4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kolonatalie)
 
 ---
 
 **`Keywords & Topics`**
 
-`frontend development`, `portfolio project`, `HTML`, `CSS`, `JavaScript`, `beginner web development`, `Codecademy`, `DOM manipulation`, `interactive components`, `coding challenges`, `responsive design`, `creative coding`, `learning frontend`
+`frontend development`, `portfolio project`, `HTML`, `CSS`, `JavaScript`, `beginner web development`, `Codecademy`, `DOM manipulation`, `interactive components`, `coding challenges`, `responsive design`, `creative coding`, `learning frontend`, `React`, `TypeScript`
