@@ -1,4 +1,7 @@
-![Advanced Accordion (TypeScript & GSAP Animation)](./public/demo.gif)
+<div align='center'>
+    <img src='./public/demo.gif' alt='Advanced Accordion (TypeScript & GSAP Animation)' width=512px />
+</div>
+
 # **Advanced Accordion** (*TypeScript & GSAP Animation*)
 
 An interactive Frequently Asked Questions (FAQ) component. This project was originally a JavaScript tutorial from **[John Smilga's React course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t)**, which I have significantly upgraded by refactoring to **TypeScript** and integrating **GSAP** for high-end web animations.
@@ -6,7 +9,7 @@ An interactive Frequently Asked Questions (FAQ) component. This project was orig
 ## Features
 
 * **Single Open Logic.** A streamlined UX where opening one question automatically closes any other active one.
-* **GSAP Powered Animations.** Smooth, high-performance transitions for opening and closing content, providing a "premium feel" compared to standard CSS.
+* **GSAP Powered Animations.** Smooth, high-performance transitions for opening and closing content.
 * **Interactive SVG Toggle.** A custom-styled plus icon that rotates 45 degrees into a cross when active, using CSS transforms.
 * **Fully Responsive.** Mobile-first design that works seamlessly across all devices.
 
