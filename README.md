@@ -26,6 +26,7 @@ Each project in this repo focuses on building a small, functional feature using 
 
 | Folder Name | Project Title | Key Learning Focus | Live Demo |
 | :--- | :--- | :--- | :--- |
+| [`accordion`](/Projects/accordion/) | ***Advanced Accordion (*TypeScript & GSAP Animation*)*** | An interactive FAQ component upgraded by refactoring to **TypeScript** and integrating **GSAP**. |  |
 | [`tours-react`](/Projects/tours-react/) | ***Tours React App*** | **(Refactored to TypeScript).** A functional app for viewing and managing a list of travel tours. |  |
 | [`birthday-reminder-react-app`](/Projects/birthday-reminder-react-app/) | ***Birthday Reminder App*** | A small React app designed to remind users of upcoming birthdays. **(TypeScript Refactor)** |  |
 ||
