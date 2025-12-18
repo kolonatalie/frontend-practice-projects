@@ -18,7 +18,7 @@ const Menu: React.FC<MenuProps> = ({ items }) => {
       {
         opacity: 0,
         y: 100,
-        scale: 0.8
+        scale: 0.7
       },
       {
         opacity: 1,

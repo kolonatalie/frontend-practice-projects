@@ -1,3 +1,7 @@
+<div align='center'>
+    <img src='./public/images/menu-demo.gif' alt='Advanced Accordion (TypeScript & GSAP Animation)' width=512px />
+</div>
+
 # Menu Project
 
 Responsive restaurant menu app built with a focus on clean code, performance, and high-end user experience. This project was originally a JavaScript tutorial from **[John Smilga's React course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t)**, which I have upgraded by refactoring to **TypeScript** and integrating **GSAP** for high-end web animations.
