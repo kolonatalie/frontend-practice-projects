@@ -5,7 +5,7 @@ Variables
 */
 
 :root {
-  --clr-primary:hsl(180, 51%, 11%);
+  --clr-primary: hsl(180, 50%, 11%);
   --clr-grey-1: hsl(209, 61%, 16%);
   --clr-grey-5: hsl(210, 22%, 49%);
   --clr-grey-10: hsl(210, 36%, 96%);
@@ -125,7 +125,6 @@ Menu
 .btn-container {
   display: flex;
   justify-content: center;
-  gap: 1rem;
   margin-bottom: 4rem;
 }
 
@@ -148,6 +147,12 @@ Menu
   color: var(--clr-white);
 }
 
+@media screen and (min-width: 768px) {
+  .btn-container {
+    gap: 1rem;
+  }
+}
+
 .section-center {
   width: 90vw;
   margin: 0 auto;
@@ -160,12 +165,11 @@ Menu
 .menu-item {
   display: grid;
   gap: 1.5rem;
-  /* max-width: 25rem; */
+  max-width: 25rem;
   background: var(--clr-light);
   padding: 1.5rem;
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
-  /* Початковий стан для GSAP (ховаємо) */
   opacity: 0;
 }
 
@@ -173,9 +177,8 @@ Menu
   object-fit: cover;
   height: 200px;
   width: 100%;
-  /* border: 0.25rem solid var(--clr-gold); */
   border-radius: var(--radius);
-  /* display: block; */
+  display: block;
 }
 
 .item-info header {
