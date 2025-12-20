@@ -1,0 +1,286 @@
+/*
+=============== 
+Variables
+===============
+*/
+
+:root {
+  /* dark shades of primary color */
+  --clr-primary-1: hsl(184deg 91% 17%);
+  --clr-primary-2: hsl(185deg 84% 25%);
+  --clr-primary-3: hsl(185deg 81% 29%);
+  --clr-primary-4: hsl(184deg 77% 34%);
+  --clr-primary-5: #2caeba;
+
+  /* lighter shades of primary color */
+  --clr-primary-6: hsl(185deg 57% 50%);
+  --clr-primary-7: hsl(184deg 65% 59%);
+  --clr-primary-8: hsl(184deg 80% 74%);
+  --clr-primary-9: hsl(185deg 94% 87%);
+  --clr-primary-10: hsl(186deg 100% 94%);
+
+  /* darkest grey - used for headings */
+  --clr-grey-1: hsl(209deg 61% 16%);
+  --clr-grey-5: hsl(210deg 22% 49%);
+  --clr-grey-10: hsl(210deg 36% 96%);
+  --clr-white: #fff;
+  --transition: all 0.3s linear;
+  --spacing: 0.1rem;
+  --radius: 0.25rem;
+  --light-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+  --dark-shadow: 0 5px 15px rgb(0 0 0 / 20%);
+  --max-width: 1170px;
+  --fixed-width: 620px;
+}
+
+/*
+=============== 
+Global Styles
+===============
+*/
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--clr-grey-1);
+  background: var(--clr-grey-10);
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-bottom: 0.75rem;
+  line-height: 1.25;
+  text-transform: capitalize;
+  letter-spacing: var(--spacing);
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 0.875rem;
+}
+
+p {
+  margin-bottom: 1.25rem;
+  color: var(--clr-grey-5);
+}
+
+@media screen and (width >= 800px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
+
+  h3 {
+    font-size: 1.75rem;
+  }
+
+  h4 {
+    font-size: 1rem;
+  }
+
+  body {
+    font-size: 1rem;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    line-height: 1;
+  }
+}
+
+.section {
+  width: 90vw;
+  max-width: var(--max-width);
+  padding: 2rem;
+  margin: 5rem auto;
+}
+
+@media screen and (width >= 992px) {
+  .section {
+    width: 95vw;
+  }
+}
+
+.loading {
+  text-align: center;
+}
+
+.underline {
+  width: 5rem;
+  height: 0.25rem;
+  margin-right: auto;
+  margin-bottom: 1.25rem;
+  margin-left: auto;
+  background: var(--clr-primary-5);
+}
+
+.title {
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+/*
+=============== 
+Jobs
+===============
+*/
+
+.jobs-center {
+  width: 80vw;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  
+}
+
+.btn-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 4rem;
+}
+
+.job-btn {
+  padding: 0.25rem 0;
+  margin: 0 0.5rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  text-transform: capitalize;
+  letter-spacing: var(--spacing);
+  cursor: pointer;
+  outline-color: var(--clr-primary-10);
+  background: transparent;
+  border-color: transparent;
+  transition: var(--transition);
+}
+
+.job-btn:hover {
+  color: var(--clr-primary-5);
+  box-shadow: 0 2px var(--clr-primary-5);
+}
+
+.active-btn {
+  color: var(--clr-primary-5);
+  box-shadow: 0 2px var(--clr-primary-5);
+}
+
+.job-info h3 {
+  font-weight: 400;
+}
+
+.job-info h4 {
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  color: var(--clr-grey-5);
+  text-transform: uppercase;
+  background: var(--clr-grey-9);
+  border-radius: var(--radius);
+}
+
+.job-date {
+  letter-spacing: var(--spacing);
+}
+
+.job-desc {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 2rem;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+
+.job-desc p {
+  margin-bottom: 0;
+  color: var(--clr-grey-3);
+}
+
+.job-icon {
+  color: var(--clr-primary-5);
+}
+
+@media screen and (width >= 992px) {
+  .jobs-center {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    column-gap: 4rem;
+    width: 90vw;
+  }
+
+  .btn-container {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .job-btn {
+    margin-bottom: 1rem;
+  }
+
+  .active-btn {
+    box-shadow: -2px 0 var(--clr-primary-5);
+  }
+
+  .job-btn:hover {
+    box-shadow: -2px 0 var(--clr-primary-5);
+  }
+}
+
+.btn {
+  display: block;
+  width: 12rem;
+  padding: 0.375rem 0.75rem;
+  margin: 0 auto;
+  margin-top: 3rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--clr-primary-9);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: var(--spacing);
+  cursor: pointer;
+  background: var(--clr-primary-5);
+  border: 2px solid transparent;
+  border-radius: var(--radius);
+  box-shadow: 0 1px 3px rgb(0 0 0 / 20%);
+  transition: var(--transition);
+}
+
+.btn:hover {
+  color: var(--clr-primary-1);
+  background: var(--clr-primary-8);
+}
