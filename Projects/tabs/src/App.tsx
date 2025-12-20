@@ -3,7 +3,7 @@ import { FaAngleDoubleRight } from 'react-icons/fa';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 
-const url = '/react-tabs-project';
+const url = 'https://course-api.com/react-tabs-project';
 
 interface Job {
   id: string;
