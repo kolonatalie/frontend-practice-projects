@@ -26,7 +26,7 @@ Each project in this repo focuses on building a small, functional feature using 
 
 | Folder Name | Project Title | Key Learning Focus | Live Demo |
 | :--- | :--- | :--- | :--- |
-| [`tabs`](/Projects/tabs/) | ***Tabs Project*** | Job experience dashboard. **Vite + TypeScript + GSAP** | |
+| [`tabs`](/Projects/tabs/) | ***Tabs Project*** | Job experience dashboard. **Vite + TypeScript + GSAP** | [**Live Demo**](https://job-experience-tabs.vercel.app) |
 | [`menu`](/Projects/menu/) | ***Menu Project*** | Responsive restaurant menu app upgraded by refactoring to **TypeScript** and integrating **GSAP**. |[**Live Demo**](https://menu-kolonatalie.vercel.app) |
 | [`accordion`](/Projects/accordion/) | ***Advanced Accordion (*TypeScript & GSAP Animation*)*** | An interactive FAQ component upgraded by refactoring to **TypeScript** and integrating **GSAP**. |  |
 | [`tours-react`](/Projects/tours-react/) | ***Tours React App*** | **(Refactored to TypeScript).** A functional app for viewing and managing a list of travel tours. |  |
