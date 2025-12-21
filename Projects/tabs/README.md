@@ -1,16 +1,13 @@
 # Tabs Project | [Live Preview](https://job-experience-tabs.vercel.app)
 
-Job experience dashboard built with a focus on clean architecture, type safety, and smooth user interactions. 
-
-This project was originally a tutorial from **[John Smilga's React course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t)**. I have upgraded it by migrating from Create React App to **Vite**, refactoring the entire codebase to **TypeScript**, and integrating **GSAP** for polished web animations.
+Job experience dashboard. This project was originally a tutorial from **[John Smilga's React course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t)**. I have upgraded it by migrating from Create React App to **Vite**, refactoring to **TypeScript**, and integrating **GSAP** for polished web animations.
 
 ## Key Upgrades & Features
 
 * Migrated to **Vite** for near-instant Hot Module Replacement (HMR) and optimized production builds.
-* Fully refactored to **TypeScript** with custom interfaces to ensure robust data handling from external APIs.
-* Powered by **GSAP (GreenSock Animation Platform)** to provide smooth, high-end transitions between tab content.
+* Fully refactored to **TypeScript** with custom interfaces.
+* Powered by **GSAP (GreenSock Animation Platform)** to provide smooth transitions between tab content.
 * Configured **ESLint** and **Stylelint** (with recess-order) to maintain "FAANG-level" code quality and consistent CSS property ordering.
-* A clean, disciplined UI that works flawlessly across all device sizes.
 * #### Inspiration
   * [Gatsby Strapi Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
 
