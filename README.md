@@ -3,8 +3,8 @@
   <h1>Frontend Practice Projects</h1>
 </div>
  
-This repository is part of my learning journey as I study frontend development, primarily through Codecademy, IT courses and hands-on experimentation.
-Each project in this repo focuses on building a small, functional feature using **HTML/CSS**, **JavaScript (ES6+)**, **React** and **TypeScript** — everything from simple games to interactive web components.
+This repo is part of my learning journey as I study frontend development, primarily through Codecademy, IT courses and hands-on experimentation.
+Each project here focuses on building a small, functional feature using **HTML/CSS**, **JavaScript (ES6+)**, **React** and **TypeScript**, everything from simple games to interactive web components.
 
 ---
 
@@ -15,10 +15,7 @@ Each project in this repo focuses on building a small, functional feature using 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript(ES6+)-704F91?style=for-the-badge&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-704F91?style=for-the-badge&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-704F91?style=for-the-badge&logoColor=white)
-
- DOM Manipulation • Event Listeners •  Algorithms • CSS Flexbox/Grid • Responsive Design • Conditional Logic • React Hooks
-
-
+![GSAP Badge](https://img.shields.io/badge/GSAP-704F91?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -50,7 +47,7 @@ Each project in this repo focuses on building a small, functional feature using 
 
 ## 🪩 Standalone Projects
 
-These are larger, fully realized apps, each maintained in its own dedicated repository.
+These are larger apps, each maintained in its own dedicated repository.
 
 | Project Title | Description & Key Tech | Repository Link | Live Demo |
 | :--- | :--- | :--- | :--- |
@@ -66,8 +63,6 @@ These are larger, fully realized apps, each maintained in its own dedicated repo
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp2dXVkM3owbDF1eGVicWdhMHhzbnUwajJqZW93dzFqZmI5YTJoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26vwfMVM6nlEkwftUj/giphy.gif" width="50" height="50"/>
 
 ## [GSAP • Three.js • WebGL](https://github.com/kolonatalie/gsap-threejs-experiments) | Dedicated Repo
-
-The repository is dedicated to my structured learning and experimentation with high-performance web animation and 3D graphics.
 
 | Project Title | Description & Key Tech | Source Code | Live Demo |
 | :--- | :--- | :--- | :--- |
@@ -111,4 +106,4 @@ I'm always open to feedback, collaboration, and connecting with fellow developer
 
 **`Keywords & Topics`**
 
-`frontend development`, `portfolio project`, `HTML`, `CSS`, `JavaScript`, `beginner web development`, `Codecademy`, `DOM manipulation`, `interactive components`, `coding challenges`, `responsive design`, `creative coding`, `learning frontend`, `React`, `TypeScript`
+`frontend development`, `portfolio project`, `HTML`, `CSS`, `JavaScript`, `beginner web development`, `Codecademy`, `DOM manipulation`, `interactive components`, `coding challenges`, `responsive design`, `creative coding`, `learning frontend`, `React`, `TypeScript`, `GSAP`
