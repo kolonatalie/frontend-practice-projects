@@ -17,6 +17,7 @@ Each project here focuses on building a small, functional feature using **HTML/C
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite JS" alt="Vite JS" width="40" height="40"/>
 </div>
 
 ---
@@ -25,22 +26,22 @@ Each project here focuses on building a small, functional feature using **HTML/C
 
 | Folder Name | Project Title | Key Learning Focus | Live Demo |
 | :--- | :--- | :--- | :--- |
-| [`tabs`](/Projects/tabs/) | ***Tabs Project*** | Job experience dashboard. **Vite + TypeScript + GSAP** | [**Live Demo**](https://job-experience-tabs.vercel.app) |
-| [`menu`](/Projects/menu/) | ***Menu Project*** | Responsive restaurant menu app upgraded by refactoring to **TypeScript** and integrating **GSAP**. |[**Live Demo**](https://menu-kolonatalie.vercel.app) |
-| [`accordion`](/Projects/accordion/) | ***Advanced Accordion (*TypeScript & GSAP Animation*)*** | An interactive FAQ component upgraded by refactoring to **TypeScript** and integrating **GSAP**. |  |
-| [`tours-react`](/Projects/tours-react/) | ***Tours React App*** | **(Refactored to TypeScript).** A functional app for viewing and managing a list of travel tours. |  |
-| [`birthday-reminder-react-app`](/Projects/birthday-reminder-react-app/) | ***Birthday Reminder App*** | A small React app designed to remind users of upcoming birthdays. **(TypeScript Refactor)** |  |
+| [**`tabs`**](/Projects/tabs/) | *Tabs Project* | Job experience dashboard. **Vite + TypeScript + GSAP** | [**Live Demo**](https://job-experience-tabs.vercel.app) |
+| [**`menu`**](/Projects/menu/) | *Menu Project* | Responsive restaurant menu app upgraded by refactoring to **TypeScript** and integrating **GSAP**. |[**Live Demo**](https://menu-kolonatalie.vercel.app) |
+| [**`accordion`**](/Projects/accordion/) | *Advanced Accordion (*TypeScript & GSAP Animation*)* | An interactive FAQ component upgraded by refactoring to **TypeScript** and integrating **GSAP**. |  |
+| [**`tours-react`**](/Projects/tours-react/) | *Tours React App* | **(Refactored to TypeScript).** A functional app for viewing and managing a list of travel tours. |  |
+| [**`birthday-reminder-react-app`**](/Projects/birthday-reminder-react-app/) | *Birthday Reminder App* | A small React app designed to remind users of upcoming birthdays. **(TypeScript Refactor)** |  |
 ||
 | ⬆  | **```⬆ REACT```** | **```TYPESCRIPT ⬆```** | ⬆ |
 ||
-| [`Image-hover-effect-CSS`](/Projects/Image-hover-effect-CSS/) | ***Image Hover Effect*** | CSS Transitions & Transforms, Pseudo-elements (`::after`), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
-| [`Happy-Birthday-Piano-Player`](/Projects/Happy-Birthday-Piano-Player/) | ***Piano Player*** | Event Handling (Mouse), DOM State Updates, UI flow management. | |
-| [`Reviews`](/Projects/Reviews/) | ***Reviews Carousel*** | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
-| [`Challenge-Project-Credit-Card-Checker`](/Projects/Challenge-Project-Credit-Card-Checker/) | ***Credit Card Checker*** | Luhn Algorithm, Functional Composition, Array & String methods. | |
-| [`Team-Stats-JS`](/Projects/Team-Stats-JS/) | ***Team Stats*** | Data Encapsulation (Getters), OOP Fundamentals, Object State Management. | |
-| [`Whale-Talk-Translator-JS`](/Projects/Whale-Talk-Translator-JS/) | ***Whale Talk Translator*** | String Manipulation, Loops, Array construction. | |
-| [`Sleep-Debt-Calculator`](/Projects/Sleep-Debt-Calculator/) | ***Sleep Debt Calculator*** | Switch Statements, Input Validation & Control Flow. | |
-| [`Rock-Paper-or-Scissors-JS`](/Projects/Rock-Paper-or-Scissors-JS/)| ***Rock, Paper, Scissors*** | User input handling, Random number generation, Game logic. | |
+| [**`Image-hover-effect-CSS`**](/Projects/Image-hover-effect-CSS/) | *Image Hover Effect* | CSS Transitions & Transforms, Pseudo-elements (`::after`), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
+| [**`Happy-Birthday-Piano-Player`**](/Projects/Happy-Birthday-Piano-Player/) | *Piano Player* | Event Handling (Mouse), DOM State Updates, UI flow management. | |
+| [**`Reviews`**](/Projects/Reviews/) | *Reviews Carousel* | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
+| [**`Challenge-Project-Credit-Card-Checker`**](/Projects/Challenge-Project-Credit-Card-Checker/) | *Credit Card Checker* | Luhn Algorithm, Functional Composition, Array & String methods. | |
+| [**`Team-Stats-JS`**](/Projects/Team-Stats-JS/) | *Team Stats* | Data Encapsulation (Getters), OOP Fundamentals, Object State Management. | |
+| [**`Whale-Talk-Translator-JS`**](/Projects/Whale-Talk-Translator-JS/) | *Whale Talk Translator* | String Manipulation, Loops, Array construction. | |
+| [**`Sleep-Debt-Calculator`**](/Projects/Sleep-Debt-Calculator/) | *Sleep Debt Calculator* | Switch Statements, Input Validation & Control Flow. | |
+| [**`Rock-Paper-or-Scissors-JS`**](/Projects/Rock-Paper-or-Scissors-JS/)| *Rock, Paper, Scissors* | User input handling, Random number generation, Game logic. | |
 
 
 
@@ -51,13 +52,13 @@ Each project here focuses on building a small, functional feature using **HTML/C
 
 These are larger apps, each maintained in its own dedicated repository.
 
-| Project Title | Description & Key Tech | Repository Link | Live Demo |
+Repository Link | Project Title | Description & Key Tech | Live Demo |
 | :--- | :--- | :--- | :--- |
-| ***Modular Sass & Vanilla JS E-commerce Site*** | Responsive site featuring dynamic product rendering & Shopping Cart logic via Local Storage. | [`sass-vanilla-js-ecommerce-site`](https://github.com/kolonatalie/sass-vanilla-js-ecommerce-site) | **[Live Demo](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** |
-| ***Personal Portfolio Website*** | A responsive, custom portfolio showcasing my skills and projects. | [`portfolio`](https://github.com/kolonatalie/portfolio) | **[Live Demo](https://kolonatalie.github.io/portfolio/)** |
-| ***Snake Game*** | Classic Snake game built to practice core JavaScript game loop mechanics. | [`snake`](https://github.com/kolonatalie/snake) | **[Play Online](https://kolonatalie.github.io/snake/)** |
-| ***Quote of the Day Web App*** | Fetches and displays a new quote daily. | [`quote-of-the-day`](https://github.com/kolonatalie/quote-of-the-day) | **[Live Demo](https://kolonatalie.github.io/quote-of-the-day/)** |
-| ***Pastel Gradient Generator*** | Tool for generating smooth 2 & 3 color CSS backgrounds. Focus on CSS/JS input handling. | [`gradient-generator`](https://github.com/kolonatalie/pastel-gradient-generator) | **[Play Online](https://kolonatalie.github.io/pastel-gradient-generator/)** |
+| [**`sass-vanilla-js-ecommerce-site`**](https://github.com/kolonatalie/sass-vanilla-js-ecommerce-site) | *Modular Sass & Vanilla JS E-commerce Site* | Responsive site featuring dynamic product rendering & Shopping Cart logic via Local Storage. | **[Live Demo](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** |
+| [**`portfolio`**](https://github.com/kolonatalie/portfolio) | *Personal Portfolio Website* | A responsive, custom portfolio showcasing my skills and projects. | **[Live Demo](https://kolonatalie.github.io/portfolio/)** |
+| [**`snake`**](https://github.com/kolonatalie/snake) | *Snake Game* | Classic Snake game built to practice core JavaScript game loop mechanics. | **[Play Online](https://kolonatalie.github.io/snake/)** |
+| [**`quote-of-the-day`**](https://github.com/kolonatalie/quote-of-the-day) | *Quote of the Day Web App* | Fetches and displays a new quote daily. | **[Live Demo](https://kolonatalie.github.io/quote-of-the-day/)** |
+| [**`gradient-generator`**](https://github.com/kolonatalie/pastel-gradient-generator) | *Pastel Gradient Generator* | Tool for generating smooth 2 & 3 color CSS backgrounds. Focus on CSS/JS input handling. | **[Play Online](https://kolonatalie.github.io/pastel-gradient-generator/)** |
 
 ---
 
@@ -66,10 +67,10 @@ These are larger apps, each maintained in its own dedicated repository.
 
 ## [GSAP • Three.js • WebGL](https://github.com/kolonatalie/gsap-threejs-experiments) | Dedicated Repo
 
-| Project Title | Description & Key Tech | Source Code | Live Demo |
+| Source Code | Project Title | Description & Key Tech | Live Demo |
 | :--- | :--- | :--- | :--- |
-| ***Bunny Jumper Animation (GSAP3)*** | A dynamic web animation showcasing a bunny jumping in and out of a hole.  | [`bunny-jumper`](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/bunny-jumper) | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
-| ***Interactive Header Sequence (GSAP3)*** | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | [`interactive-header-sequence-gsap3`](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/interactive-header-sequence-gsap3) | **[Live Demo](https://codepen.io/kolonatalie/pen/wBGQeJw)** |
+| [**`bunny-jumper`**](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/bunny-jumper) | ***Bunny Jumper Animation (GSAP3)*** | A dynamic web animation showcasing a bunny jumping in and out of a hole. | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
+| [**`interactive-header-sequence-gsap3`**](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/interactive-header-sequence-gsap3)| ***Interactive Header Sequence (GSAP3)*** | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | **[Live Demo](https://codepen.io/kolonatalie/pen/wBGQeJw)** |
 
 ---
 
