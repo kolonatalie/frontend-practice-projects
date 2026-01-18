@@ -34,6 +34,7 @@ Each project here focuses on building a small, functional feature using **HTML/C
 ||
 | ⬆  | **```⬆ REACT```** | **```TYPESCRIPT ⬆```** | ⬆ |
 ||
+| [**`multiple-color-themes`**](/Projects/multiple-color-themes/) | *Multiple color themes project* | A responsive page with toggle between Light, Dark, and a special "Custom" theme. | |
 | [**`Image-hover-effect-CSS`**](/Projects/Image-hover-effect-CSS/) | *Image Hover Effect* | CSS Transitions & Transforms, Pseudo-elements (`::after`), Blend Modes. | **[Live Demo](https://codepen.io/kolonatalie/pen/RNWxMBw)** |
 | [**`Happy-Birthday-Piano-Player`**](/Projects/Happy-Birthday-Piano-Player/) | *Piano Player* | Event Handling (Mouse), DOM State Updates, UI flow management. | |
 | [**`Reviews`**](/Projects/Reviews/) | *Reviews Carousel* | DOM Manipulation, State Management (UI), Array of Objects data structure. | **[Live Demo](https://codepen.io/kolonatalie/pen/empVQay)** |
@@ -46,6 +47,24 @@ Each project here focuses on building a small, functional feature using **HTML/C
 
 
 > *(This section will be dynamically updated as I add projects).*
+
+
+
+## Getting Started (Local Setup)
+
+1.  **Clone the repository:**
+    
+    `git clone` [`https://github.com/kolonatalie/frontend-practice-projects.git`](https://github.com/kolonatalie/frontend-practice-projects.git)
+    
+2.  **Navigate to the desired project folder:**
+    ```bash
+    cd frontend-practice-projects/Projects/Project-Folder-Name
+    ```
+3.  **Run the code:**
+    * **For UI Components (HTML/CSS/JS):** Open the `index.html` file in your browser (Live Server recommended).
+    * **For JavaScript Snippets (e.g., Credit Card Checker):** Use Node.js in your terminal: `node <filename>.js`
+
+
 ---
 
 ## 🪩 Standalone Projects
@@ -69,25 +88,11 @@ Repository Link | Project Title | Description & Key Tech | Live Demo |
 
 | Source Code | Project Title | Description & Key Tech | Live Demo |
 | :--- | :--- | :--- | :--- |
+| [**`3D-image-slider`**](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/3D-image-slider) | ***3D Interactive Carousel*** |  Image Carousel. GSAP & CSS Variables | **[Live Demo](https://codepen.io/kolonatalie/pen/JoKWpaR)** |
 | [**`bunny-jumper`**](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/bunny-jumper) | ***Bunny Jumper Animation (GSAP3)*** | A dynamic web animation showcasing a bunny jumping in and out of a hole. | **[Live Demo](https://codepen.io/kolonatalie/pen/jEqdWxw)** |
 | [**`interactive-header-sequence-gsap3`**](https://github.com/kolonatalie/gsap-threejs-experiments/tree/main/interactive-header-sequence-gsap3)| ***Interactive Header Sequence (GSAP3)*** | Sequenced entry animation on page load, performance use of `transform`. *GSAP, HTML/CSS* | **[Live Demo](https://codepen.io/kolonatalie/pen/wBGQeJw)** |
 
 ---
-
-
-## 🛠️ Getting Started (Local Setup)
-
-1.  **Clone the repository:**
-    
-    `git clone` [`https://github.com/kolonatalie/frontend-practice-projects.git`](https://github.com/kolonatalie/frontend-practice-projects.git)
-    
-2.  **Navigate to the desired project folder:**
-    ```bash
-    cd frontend-practice-projects/Projects/Project-Folder-Name
-    ```
-3.  **Run the code:**
-    * **For UI Components (HTML/CSS/JS):** Open the `index.html` file in your browser (Live Server recommended).
-    * **For JavaScript Snippets (e.g., Credit Card Checker):** Use Node.js in your terminal: `node <filename>.js`
 
 ## 📌 Disclaimer
 
@@ -99,8 +104,7 @@ These projects are maintained purely for **educational and portfolio purposes**.
 I'm always open to feedback, collaboration, and connecting with fellow developers.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kolonatalie/)
-[![Discord Badge](https://img.shields.io/badge/Discord-8A62B3?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/prqvsDRdNk)
-[![X Badge](https://img.shields.io/badge/X-B575D4?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_kolonatalie)
+[![X Badge](https://img.shields.io/badge/X-8A62B3?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_kolonatalie)
 [![Bluesky Badge](https://img.shields.io/badge/Bluesky-A575D4?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kolonatalie.bsky.social)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-704F91?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@kolonatalie)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-3D2B4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kolonatalie)
