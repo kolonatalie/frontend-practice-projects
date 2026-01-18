@@ -64,6 +64,10 @@ Each project here focuses on building a small, functional feature using **HTML/C
     * **For UI Components (HTML/CSS/JS):** Open the `index.html` file in your browser (Live Server recommended).
     * **For JavaScript Snippets (e.g., Credit Card Checker):** Use Node.js in your terminal: `node <filename>.js`
 
+---
+<div id="section" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd1YzNvbXphNzgycXZkZmhhbmk3MW1zMzR0amtueG90M2N0ZDZrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xU0iLb3NZpsWF9Ac8y/giphy.gif" width="100" height="100"/>
+</div>
 
 ---
 
