@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2cW1mdDM5dHllNHAzeHB0eGZwMGdycTVvbXIyNzc2dmM0bG9vcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fY5fY1YKJy1lO6jDK5/giphy.gif" width="100" height="100"/>
   <h1>Frontend & Creative Engineering Hub</h1>
@@ -10,7 +12,7 @@ Welcome to the central entry point of my development journey. This repository se
 
 ## Table of contents
 - [Featured Projects](#featured-projects)
-- [Standalone Applications](#-standalone-applications)
+- [Standalone Applications](#standalone-applications)
 - [Creative Labs  | Three.js • GSAP](#creative-labs----threejs--gsap)
 - [Frontend Foundations](#frontend-foundations)
 - [Connect with me](#-connect-with-me)
@@ -23,6 +25,7 @@ Welcome to the central entry point of my development journey. This repository se
 | :--- | :--- | :--- | :--- |
 | **[3D Sofa Configurator](https://github.com/kolonatalie/3d-product-configurator)** | High-performance product customizer. ***Features:*** Draco compression, PBR materials, and custom Scene Management. | **Three.js • React • TS • GSAP** | [**Live**](https://3d-sofa-configurator.vercel.app) |
 | **[ React + GSAP + TS Starter Kit ]()** | ***Developer Tool*** • A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles. | **React • TS • GSAP** | |
+| | | | |
 
 ---
 
@@ -144,3 +147,5 @@ I'm always open to feedback, collaboration, and connecting with fellow developer
 **`Keywords & Topics`**
 
 `frontend development`, `portfolio project`, `HTML`, `CSS`, `JavaScript`, `beginner web development`, `Codecademy`, `DOM manipulation`, `interactive components`, `coding challenges`, `responsive design`, `creative coding`, `learning frontend`, `React`, `TypeScript`, `GSAP`
+
+<p align="right"><a href="#header"><strong>BACK TO TOP</strong></a></p>
